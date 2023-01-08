@@ -1,7 +1,7 @@
 # Inlämningsuppgift: REST-API 
 
 ## Beskrivning:
-###  API med funktionalitet för CRUD, det finns 5st endpoints (GET x2, POST, PUT och DELETE). Det går att hämta alla "användare", lägga till, ta bort och ändra. När en användare läggs till får den ett unikt id, id-nummret kan sedan användas för at söka efter/hämta en specifik användare. Alla endpoints kan testköras i .rest-filen. Klientgränssnitt saknas. 
+### API med funktionalitet för CRUD, det finns 5st endpoints (GET x2, POST, PUT och DELETE). Det går att hämta alla "användare", lägga till, ta bort och ändra. När en användare läggs till får den ett unikt id, id-nummret kan sedan användas för at söka efter/hämta en specifik användare. Alla endpoints kan testköras i .rest-filen. Klientgränssnitt saknas. 
 
 ## Hur projktet körs:
 ### 
