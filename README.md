@@ -10,7 +10,7 @@
 3. Testa alla endpoints i .rest-filen. 
 (Rest Client krävs)
 
-## Jag har uppfyllt följande krav: 
+## Följande krav är uppfyllda: 
 ### För G:
 #### 
 - Projektet innehåller minst 4 st. endpoints (GET, POST, PUT & DELETE för en resurs)
