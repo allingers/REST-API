@@ -3,7 +3,7 @@ GET http://localhost:3002/users
 
 ###
 
-GET http://localhost:3002/users/276
+GET http://localhost:3002/users/a766146b-ff53-4e89-a83c-93bc434def5f
 //Hämtar specifik användare genom Id
 //Testa tex id: 276 eller a766146b-ff53-4e89-a83c-93bc434def5f
 
@@ -19,7 +19,8 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3002/users/a3ad14f9-4a37-4056-8e14-47c2632a6c21
+DELETE http://localhost:3002/users/92cd132c-8018-4172-a9f8-fd92143b86f0
+
 //Raderar specifik användare
 
 ###
