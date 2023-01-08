@@ -1,0 +1,33 @@
+GET http://localhost:3002/users
+//Hämtar alla användare
+
+###
+
+GET http://localhost:3002/users/276
+//Hämtar specifik användare genom Id
+//Testa tex id: 276 eller a766146b-ff53-4e89-a83c-93bc434def5f
+
+###
+
+POST http://localhost:3002/users 
+//Lägger till ny användare
+Content-Type: application/json
+
+{
+"firstName" : "Erik", "lastName": "Eriksson", "age" : "45"
+}
+
+###
+
+DELETE http://localhost:3002/users/a3ad14f9-4a37-4056-8e14-47c2632a6c21
+//Raderar specifik användare
+
+###
+
+PATCH http://localhost:3002/users/276 
+Content-Type: application/json 
+//Ändrar/uppdaterar användare.
+
+{
+"age": "test"
+}

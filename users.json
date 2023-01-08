@@ -2,19 +2,13 @@
   {
     "firstName": "Amanda",
     "lastName": "Allinger",
-    "age": "25",
-    "userName": "allingers"
+    "age": "test",
+    "id": "276"
   },
   {
-    "firstName": "Gunnar",
-    "lastName": "Nilsson",
-    "age": "72",
-    "userName": "GNilsson"
-  },
-  {
-    "id": "ccaae1d7-b774-453c-b394-ed110a94e7ca"
-  },
-  {
-    "id": "177314a5-e2aa-4b63-b25c-7b65ba7e275e"
+    "firstName": "Jesper",
+    "lastName": "Jespersson",
+    "age": "28",
+    "id": "a766146b-ff53-4e89-a83c-93bc434def5f"
   }
 ]

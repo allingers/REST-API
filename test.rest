@@ -1,9 +1,0 @@
-GET http://localhost:3000/users
-###
-POST http://localhost:3000/users 
-Content-Type: application/json //LÄGGER TILL
-
-{
-"firstName" : "Jesper", "lastName": "Jespersson", "age" : "28", "userName": "JJ28"
-}
-###
